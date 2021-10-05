@@ -1,0 +1,164 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+	width: 100%;
+	height: 520px;
+	background-color: white;
+}
+.pengguna{
+	padding: 1px;
+	margin-top: 20px;
+	width: 100%;
+	height: 500px;
+	background-image: url(img/login/F1.png);
+	font-family: arial;
+	padding-bottom: 60px;
+}
+.pengguna h2{
+	font-size: 30px;
+	color: #FF0000;
+}
+.headser{
+	padding-top: 2px;
+	width: 400px;
+	height: 420px;
+	border-radius: 3px;
+	background-color: white;
+	padding-bottom: 21px;
+	margin-top: 60px;
+	margin-left: 620px;
+}
+.headser table{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.headser table tr .inp{
+	font-family: arial;
+	font-size: 22px;
+}
+.headser table tr .inp input{
+	border: none;
+	border-bottom: 1px solid black;
+	background: transparent;
+	outline: none;
+	width: 320px;
+	height: 40px;
+	border-radius: 5px;
+	font-size: 16px;
+	padding: 5px;
+	margin-top: 15px;
+}
+.headser table tr td .rmb input{
+	margin-top: 23px;
+	border-radius: 10px;
+}
+.headser table tr td .rmb label{
+	font-size: 17px;
+}
+.input button{
+	width: 100px;
+	height: 50px;
+	color: white;
+	font-size: 20px;
+	background-color: #01285E;
+	border-radius: 20px;
+}
+.input button:hover{
+	color: #01285E;
+	background-color: white;
+}
+.pengguna {
+	margin-top: 20px;
+}
+.daftar {
+	margin-top: 30px;
+	font-size: 14px;
+	color: gray;
+}
+.daftar a {
+	text-decoration: none;
+	color: #0836F5;
+	margin-left: 2px;
+}
+.daftar a:hover {
+	text-decoration: underline;
+}
+.headser table tr td p {
+	color: #FF0000;
+	font-style: italic;
+}
+.headser table tr td p:hover {
+	color: #C40000;
+}
+.pala {
+	width: 100%;
+	height: 65px;
+	background-color: white;
+}
+.pala img {
+	width: 210px;
+	height: 70px;
+	margin-top: 7px;
+	margin-left: 120px;
+}
+
+.tujuh{
+	width: 100%;
+	height: auto;
+	background-color: white;
+}
+.plus{
+	width: 100%
+	height: auto;
+	margin-top: 20px;
+}
+.plus table tr td a img{
+	width: 80px;
+	height: 80px;
+}
+.plus table tr td img:hover{
+	opacity: 50%;
+}
+.layanan{
+	width: 100%;
+	height: auto;
+	margin-top: 40px;
+}
+.lyn img{
+	height: 100px;
+	width: 100px;
+}
+.lyn{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.lyn h3{
+	font-family: arial;
+}
+.lyn h3:hover{
+	color: #FF0000;
+}
+.lyn p{
+	text-decoration: none;
+	color: #0836F5;
+
+}
+.lyn p:hover{
+	text-decoration: underline;
+}
+
+.footer{
+	width: 100%;
+	height:30px;
+	background-color: #01285E;
+}
+
+.footer p{
+	font-family: arial;
+	color: white;
+	font-size: 15px;
+	padding-top: 4px;
+}

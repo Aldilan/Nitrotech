@@ -1,0 +1,171 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+	width: 100%;
+	height: auto;
+}
+.pala {
+	width: 100%;
+	height: 65px;
+	background-color: white;
+}
+.pala img {
+	width: 210px;
+	height: 70px;
+	margin-top: 7px;
+	margin-left: 120px;
+}
+.pengguna {
+	width: 100%;
+	height: 380px;
+	background-color: #01285E;	
+	padding-top: 20px;
+	margin-top: 20px;
+}
+.headkat {
+	width: 100%;
+	height: auto;
+	background-color: white;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	border: 1px solid #01285E;
+	margin-left: 3px;
+	margin-top: 3px;
+}
+.headkat {
+	width: 24.65%;
+	height: auto;
+	float: left;
+}
+.headkat table tr td img{
+	width: 40px;
+	height: 40px;
+}
+.headkat table tr td a button {
+	background-color: white;
+	border: 0px solid black;
+}
+.headkat table tr td a button img {
+	width: 18px;
+	height: 18px;
+}
+.headkat table tr td a button img:hover {
+	opacity: 50%;
+}
+
+.hal{
+	width: 100%;
+	height: 30px;
+	background-color: #01285E;
+}
+.hal a{
+	font-family: arial;
+	font-size: 14px;
+	text-decoration: none;
+	color: #F5F5F5;
+}
+.sbl {
+	margin: 0px;
+	width: 100%;
+	height: 40px;
+	background-color: #01285E;
+	padding-bottom: 15px;
+}
+.sbl a {
+	text-decoration: none;
+	font-family: arial;
+	font-size: 12px;
+	color: white;
+	margin-left: 6px;;
+}
+.sbl a:hover {
+	opacity: 50%;
+}
+.sbl button{
+	margin-top: 10px;
+	border: 0px solid black;
+	background-color: #01285E;
+	font-family: arial;
+	font-size: 12px;
+	color: white;
+}
+.sbl button:hover{
+	opacity: 50%;
+}
+.tujuh{
+	width: 100%;
+	height: auto;
+	background-color: white;
+	float: none;
+	margin-top: 128px;
+}
+.plus{
+	width: 100%
+	height: auto;
+	margin-top: 20px;
+}
+.plus table tr td a img{
+	width: 80px;
+	height: 80px;
+}
+.plus table tr td img:hover{
+	opacity: 50%;
+}
+.layanan{
+	width: 100%;
+	height: auto;
+	margin-top: 40px;
+}
+.lyn img{
+	height: 100px;
+	width: 100px;
+}
+.lyn{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.lyn h3{
+	font-family: arial;
+}
+.lyn h3:hover{
+	color: #FF0000;
+}
+.lyn p{
+	text-decoration: none;
+	color: #0836F5;
+
+}
+.lyn p:hover{
+	text-decoration: underline;
+}
+
+.footer{
+	width: 100%;
+	height:30px;
+	background-color: #01285E;
+}
+
+.footer p{
+	font-family: arial;
+	color: white;
+	font-size: 15px;
+	padding-top: 4px;
+}
+.hargabarang {
+	color: blue;
+}
+.namabarang {
+	font-family: arial;
+	font-size: 17px;
+}
+
+.dlt a{
+	text-decoration: none;
+	color: #FF0000;
+}
+.dlt a:hover {
+	text-decoration: underline;
+}
